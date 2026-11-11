@@ -8,7 +8,7 @@ authors:
 version: 1.0.0
 date-released: 2026-11-11
 license: MIT
-repository-code: "https://github.com/USERNAME/dwi-ecg-workflow"
+repository-code: "https://github.com/zaqqiTech/dynamic_workflow_intelligence"
 preferred-citation:
   type: article
   title: "Dynamic Workflow Intelligence: A Verifiable State-Machine Specification for Coupling Continuous Clinical Risk Scores to Workflow Adaptation"
