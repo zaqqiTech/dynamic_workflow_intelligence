@@ -1,0 +1,27 @@
+{
+ "patients": {
+  "A_train": 14235,
+  "A_calibration": 6101,
+  "B_test": 20000
+ },
+ "hours": {
+  "A_train": 554389,
+  "A_calibration": 235826,
+  "B_test": 761995
+ },
+ "auroc_hourly": {
+  "A_calibration": 0.8147097757644753,
+  "B_test": 0.7276291427059468
+ },
+ "auprc_hourly": {
+  "A_calibration": 0.09720071994886045,
+  "B_test": 0.05719304178151447
+ },
+ "prevalence_hourly_B": 0.014147074455869133,
+ "thresholds": {
+  "thM_P93": 0.06838489549665536,
+  "thC_P98": 0.19456172595980298,
+  "thK_P99_9": 0.6544210353666061
+ },
+ "n_features": 84
+}

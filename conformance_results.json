@@ -1,0 +1,132 @@
+{
+ "TC-1 Guard partition": {
+  "exercises": "Thm 4",
+  "cases": 9439,
+  "passed": 9439,
+  "failed": 0,
+  "note": "64 predicate valuations (exhaustive) + 9375 concrete cells"
+ },
+ "TC-2 Guard boundaries": {
+  "exercises": "Def 4",
+  "cases": 18,
+  "passed": 18,
+  "failed": 0,
+  "note": ""
+ },
+ "TC-3 Window edges": {
+  "exercises": "Def 3",
+  "cases": 9,
+  "passed": 9,
+  "failed": 0,
+  "note": ""
+ },
+ "TC-4 Phi enumeration": {
+  "exercises": "Def 5, Prop 1",
+  "cases": 32,
+  "passed": 32,
+  "failed": 0,
+  "note": "32/32 cells; 22 rules"
+ },
+ "TC-5 Dwell boundary": {
+  "exercises": "Def 5",
+  "cases": 21,
+  "passed": 21,
+  "failed": 0,
+  "note": "18 table cells + 3 end-to-end"
+ },
+ "TC-6 Adaptation base": {
+  "exercises": "Def 6-8",
+  "cases": 16,
+  "passed": 16,
+  "failed": 0,
+  "note": "12 transitions + 4 hold (no command)"
+ },
+ "TC-7 Overlay commutativity": {
+  "exercises": "Sec 3.6",
+  "cases": 500,
+  "passed": 500,
+  "failed": 0,
+  "note": "500 random multi-match overlays"
+ },
+ "TC-8 Monotonicity": {
+  "exercises": "Thm 0",
+  "cases": 2001,
+  "passed": 2001,
+  "failed": 0,
+  "note": "uniform + class-biased generators + worked fixture"
+ },
+ "TC-9 Idempotency": {
+  "exercises": "A3, Def 1",
+  "cases": 500,
+  "passed": 500,
+  "failed": 0,
+  "note": "300 redeliveries + 200 key collisions"
+ },
+ "TC-10 Replay determinism": {
+  "exercises": "Thm 2",
+  "cases": 1000,
+  "passed": 1000,
+  "failed": 0,
+  "note": "100 episodes x 10 delivery shuffles; byte-identical"
+ },
+ "TC-11 Late arrival": {
+  "exercises": "A2",
+  "cases": 3,
+  "passed": 3,
+  "failed": 0,
+  "note": "inside / at / beyond watermark"
+ },
+ "TC-12 Staleness guard": {
+  "exercises": "Def 9",
+  "cases": 3,
+  "passed": 3,
+  "failed": 0,
+  "note": "eps-, eps, eps+"
+ },
+ "TC-13 Degradation": {
+  "exercises": "Thm 3",
+  "cases": 500,
+  "passed": 500,
+  "failed": 0,
+  "note": "500 random outages x 20 steps + reconciliation"
+ },
+ "TC-14 Override precedence": {
+  "exercises": "Def 11",
+  "cases": 3,
+  "passed": 3,
+  "failed": 0,
+  "note": "active / expiring / absent"
+ },
+ "TC-15 Coherence assertions": {
+  "exercises": "C1-C3",
+  "cases": 4,
+  "passed": 4,
+  "failed": 0,
+  "note": "3 invalid + 1 valid configuration"
+ },
+ "TC-16 Conservative dominance": {
+  "exercises": "Prop 2",
+  "cases": 300,
+  "passed": 300,
+  "failed": 0,
+  "note": "every evaluation instant checked"
+ },
+ "TC-17 Oscillation bound": {
+  "exercises": "Thm 1",
+  "cases": 300,
+  "passed": 300,
+  "failed": 0,
+  "note": "4 dwell values"
+ },
+ "TC-18 De-escalation lag": {
+  "exercises": "Prop 3",
+  "cases": 300,
+  "passed": 300,
+  "failed": 0,
+  "note": ""
+ },
+ "TOTAL": {
+  "cases": 14949,
+  "failed": 0
+ }
+}

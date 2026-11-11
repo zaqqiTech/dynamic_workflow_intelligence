@@ -1,0 +1,119 @@
+{
+ "max_sigma": {
+  "A_calibration": 0.9779385778059324,
+  "B": 0.9645097898057304
+ },
+ "hours_ge_0.95": {
+  "A_calibration": 21,
+  "B": 9,
+  "B_total_hours": 761995
+ },
+ "earlier_default_params": {
+  "thM": 0.0157,
+  "thC": 0.0454,
+  "thK": 0.95
+ },
+ "earlier_default_coherence": "pass",
+ "earlier_default": {
+  "level-triggered": {
+   "patients": 20000,
+   "patient_days": 31749.791666666668,
+   "commands_per_pd": 6.808611605063025,
+   "evaluable_septic": 919,
+   "detected": 649,
+   "sensitivity": 0.70620239390642,
+   "detected_pre_onset": 606,
+   "detected_ge6h": 529,
+   "patients_flagged": 7446,
+   "ppv_patient": 0.10166532366371206,
+   "lead_median_iqr": [
+    12.0,
+    9.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 6.010392355326982,
+   "reversals_per_pd": 0.01622057887518947,
+   "nonseptic_elev_h_per_pd": 3.6755592477996513,
+   "nonseptic_ever_elevated": 0.35470357407996606,
+   "ever_K_frac": 0.083
+  },
+  "DWI": {
+   "patients": 20000,
+   "patient_days": 31749.791666666668,
+   "commands_per_pd": 1.1161018116916777,
+   "evaluable_septic": 919,
+   "detected": 649,
+   "sensitivity": 0.70620239390642,
+   "detected_pre_onset": 606,
+   "detected_ge6h": 529,
+   "patients_flagged": 7446,
+   "ppv_patient": 0.10166532366371206,
+   "lead_median_iqr": [
+    12.0,
+    9.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.0896855369455574,
+   "reversals_per_pd": 0.008031548763443329,
+   "nonseptic_elev_h_per_pd": 3.68139900856527,
+   "nonseptic_ever_elevated": 0.35470357407996606,
+   "ever_K_frac": 0.083,
+   "max_transitions_over_bound": 0.21052631578947367,
+   "max_transitions": 19,
+   "bound_violations": 0
+  }
+ },
+ "trace_candidates": [
+  [
+   true,
+   4,
+   "p111072"
+  ],
+  [
+   false,
+   7,
+   "p118311"
+  ],
+  [
+   false,
+   7,
+   "p102022"
+  ],
+  [
+   false,
+   6,
+   "p110008"
+  ],
+  [
+   false,
+   6,
+   "p101295"
+  ],
+  [
+   false,
+   4,
+   "p114260"
+  ],
+  [
+   false,
+   4,
+   "p111035"
+  ],
+  [
+   false,
+   4,
+   "p109266"
+  ],
+  [
+   false,
+   3,
+   "p119621"
+  ],
+  [
+   false,
+   3,
+   "p116946"
+  ]
+ ],
+ "trace_patient": "p111072"
+}

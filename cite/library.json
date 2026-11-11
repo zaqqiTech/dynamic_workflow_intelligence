@@ -1,0 +1,1369 @@
+[
+ {
+  "type": "article-journal",
+  "title": "Effects of workload, work complexity, and repeated alerts on alert fatigue in a clinical decision support system",
+  "author": [
+   {
+    "family": "Ancker",
+    "given": "J. S."
+   },
+   {
+    "family": "Edwards",
+    "given": "A."
+   },
+   {
+    "family": "Nosal",
+    "given": "S."
+   },
+   {
+    "family": "Hauser",
+    "given": "D."
+   },
+   {
+    "family": "Mauer",
+    "given": "E."
+   },
+   {
+    "family": "Kaushal",
+    "given": "R."
+   }
+  ],
+  "container-title": "BMC Medical Informatics and Decision Making",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "container-title-short": "BMC Med. Informat. Decis. Making",
+  "volume": "17",
+  "page": "36",
+  "DOI": "10.1186/s12911-017-0430-8"
+ },
+ {
+  "type": "article-journal",
+  "title": "External validation of a widely implemented proprietary sepsis prediction model in hospitalized patients",
+  "author": [
+   {
+    "family": "Wong",
+    "given": "Andrew"
+   },
+   {
+    "family": "Otles",
+    "given": "Erkin"
+   },
+   {
+    "family": "Donnelly",
+    "given": "John P."
+   },
+   {
+    "family": "Krumm",
+    "given": "Andrew"
+   },
+   {
+    "family": "McCullough",
+    "given": "Jeffrey"
+   },
+   {
+    "family": "DeTroyer-Cooley",
+    "given": "Olivia"
+   },
+   {
+    "family": "Pestrue",
+    "given": "Justin"
+   },
+   {
+    "family": "Phillips",
+    "given": "Marie"
+   },
+   {
+    "family": "Konye",
+    "given": "Judy"
+   },
+   {
+    "family": "Penoza",
+    "given": "Carleen"
+   },
+   {
+    "family": "Ghous",
+    "given": "Muhammad"
+   },
+   {
+    "family": "Singh",
+    "given": "Karandeep"
+   }
+  ],
+  "container-title": "JAMA Internal Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "container-title-short": "JAMA Intern. Med.",
+  "volume": "181",
+  "issue": "8",
+  "page": "1065-1070",
+  "DOI": "10.1001/jamainternmed.2021.2626"
+ },
+ {
+  "type": "article-journal",
+  "title": "A systematic review of clinicians' acceptance and use of clinical decision support systems over time",
+  "author": [
+   {
+    "family": "Newton",
+    "given": "N."
+   },
+   {
+    "family": "Bamgboje-Ayodele",
+    "given": "A."
+   },
+   {
+    "family": "Forsyth",
+    "given": "R."
+   },
+   {
+    "family": "Tariq",
+    "given": "A."
+   },
+   {
+    "family": "Baysari",
+    "given": "M. T."
+   }
+  ],
+  "container-title": "npj Digital Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title-short": "npj Digit. Med.",
+  "volume": "8",
+  "page": "309",
+  "DOI": "10.1038/s41746-025-01662-7"
+ },
+ {
+  "type": "article-journal",
+  "title": "Clinical evaluation of a machine learning–based early warning system for patient deterioration",
+  "author": [
+   {
+    "family": "Verma",
+    "given": "Amol A."
+   },
+   {
+    "family": "Stukel",
+    "given": "Therese A."
+   },
+   {
+    "family": "Colacci",
+    "given": "Michael"
+   },
+   {
+    "family": "Bell",
+    "given": "Shirley"
+   },
+   {
+    "family": "Ailon",
+    "given": "Jonathan"
+   },
+   {
+    "family": "Friedrich",
+    "given": "Jan O."
+   },
+   {
+    "family": "Murray",
+    "given": "Joshua"
+   },
+   {
+    "family": "Kuzulugil",
+    "given": "Sebnem"
+   },
+   {
+    "family": "Yang",
+    "given": "Zhen"
+   },
+   {
+    "family": "Lee",
+    "given": "Yuna"
+   },
+   {
+    "family": "Pou-Prom",
+    "given": "Chloe"
+   },
+   {
+    "family": "Mamdani",
+    "given": "Muhammad"
+   }
+  ],
+  "container-title": "Canadian Medical Association Journal",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title-short": "Can. Med. Assoc. J.",
+  "volume": "196",
+  "issue": "30",
+  "page": "E1027-E1037",
+  "DOI": "10.1503/cmaj.240132"
+ },
+ {
+  "type": "article-journal",
+  "title": "Real-time surveillance system for patient deterioration: A pragmatic cluster-randomized controlled trial",
+  "author": [
+   {
+    "family": "Rossetti",
+    "given": "Sarah C."
+   },
+   {
+    "family": "Dykes",
+    "given": "Patricia C."
+   },
+   {
+    "family": "Knaplund",
+    "given": "Chris"
+   },
+   {
+    "family": "Cho",
+    "given": "Sandy"
+   },
+   {
+    "family": "Withall",
+    "given": "Jennifer"
+   },
+   {
+    "family": "Lowenthal",
+    "given": "Graham"
+   },
+   {
+    "family": "Albers",
+    "given": "David"
+   },
+   {
+    "family": "Lee",
+    "given": "Rachel Y."
+   },
+   {
+    "family": "Jia",
+    "given": "Haomiao"
+   },
+   {
+    "family": "Bakken",
+    "given": "Suzanne"
+   },
+   {
+    "family": "Kang",
+    "given": "Min-Jeoung"
+   },
+   {
+    "family": "Chang",
+    "given": "Frank Y."
+   },
+   {
+    "family": "Zhou",
+    "given": "Li"
+   },
+   {
+    "family": "Bates",
+    "given": "David W."
+   },
+   {
+    "family": "Daramola",
+    "given": "Temiloluwa"
+   },
+   {
+    "family": "Liu",
+    "given": "Fang"
+   },
+   {
+    "family": "Schwartz-Dillard",
+    "given": "Jessica"
+   },
+   {
+    "family": "Tran",
+    "given": "Mai"
+   },
+   {
+    "family": "Bokhari",
+    "given": "Syed Mohtashim Abbas"
+   },
+   {
+    "family": "Thate",
+    "given": "Jennifer"
+   },
+   {
+    "family": "Cato",
+    "given": "Kenrick D."
+   }
+  ],
+  "container-title": "Nature Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title-short": "Nature Med.",
+  "volume": "31",
+  "issue": "6",
+  "page": "1895-1902",
+  "DOI": "10.1038/s41591-025-03609-7"
+ },
+ {
+  "type": "article-journal",
+  "title": "Prospective, multi-site study of patient outcomes after implementation of the TREWS machine learning-based early warning system for sepsis",
+  "author": [
+   {
+    "family": "Adams",
+    "given": "Roy"
+   },
+   {
+    "family": "Henry",
+    "given": "Katharine E."
+   },
+   {
+    "family": "Sridharan",
+    "given": "Anirudh"
+   },
+   {
+    "family": "Soleimani",
+    "given": "Hossein"
+   },
+   {
+    "family": "Zhan",
+    "given": "Andong"
+   },
+   {
+    "family": "Rawat",
+    "given": "Nishi"
+   },
+   {
+    "family": "Johnson",
+    "given": "Lauren"
+   },
+   {
+    "family": "Hager",
+    "given": "David N."
+   },
+   {
+    "family": "Cosgrove",
+    "given": "Sara E."
+   },
+   {
+    "family": "Markowski",
+    "given": "Andrew"
+   },
+   {
+    "family": "Klein",
+    "given": "Eili Y."
+   },
+   {
+    "family": "Chen",
+    "given": "Edward S."
+   },
+   {
+    "family": "Saheed",
+    "given": "Mustapha O."
+   },
+   {
+    "family": "Henley",
+    "given": "Maureen"
+   },
+   {
+    "family": "Miranda",
+    "given": "Sheila"
+   },
+   {
+    "family": "Houston",
+    "given": "Katrina"
+   },
+   {
+    "family": "Linton",
+    "given": "Robert C."
+   },
+   {
+    "family": "Ahluwalia",
+    "given": "Anushree R."
+   },
+   {
+    "family": "Wu",
+    "given": "Albert W."
+   },
+   {
+    "family": "Saria",
+    "given": "Suchi"
+   }
+  ],
+  "container-title": "Nature Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title-short": "Nature Med.",
+  "volume": "28",
+  "issue": "7",
+  "page": "1455-1460",
+  "DOI": "10.1038/s41591-022-01894-0"
+ },
+ {
+  "type": "article-journal",
+  "title": "2023 ACC/AHA/ACCP/HRS guideline for the diagnosis and management of atrial fibrillation: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+  "author": [
+   {
+    "family": "Joglar",
+    "given": "José A."
+   },
+   {
+    "family": "Chung",
+    "given": "Mina K."
+   },
+   {
+    "family": "Armbruster",
+    "given": "Anastasia L."
+   },
+   {
+    "family": "Benjamin",
+    "given": "Emelia J."
+   },
+   {
+    "family": "Chyou",
+    "given": "Janice Y."
+   },
+   {
+    "family": "Cronin",
+    "given": "Edmond M."
+   },
+   {
+    "family": "Deswal",
+    "given": "Anita"
+   },
+   {
+    "family": "Eckhardt",
+    "given": "Lee L."
+   },
+   {
+    "family": "Goldberger",
+    "given": "Zachary D."
+   },
+   {
+    "family": "Gopinathannair",
+    "given": "Rakesh"
+   }
+  ],
+  "container-title": "Circulation",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "volume": "149",
+  "issue": "1",
+  "page": "e1-e156",
+  "DOI": "10.1161/CIR.0000000000001193"
+ },
+ {
+  "type": "article-journal",
+  "title": "2024 ESC guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)",
+  "author": [
+   {
+    "family": "Van Gelder",
+    "given": "Isabelle C."
+   },
+   {
+    "family": "Rienstra",
+    "given": "Michiel"
+   },
+   {
+    "family": "Bunting",
+    "given": "Karina V."
+   },
+   {
+    "family": "Casado-Arroyo",
+    "given": "Ruben"
+   },
+   {
+    "family": "Caso",
+    "given": "Valeria"
+   },
+   {
+    "family": "Crijns",
+    "given": "Harry J. G. M."
+   },
+   {
+    "family": "De Potter",
+    "given": "Tom J. R."
+   },
+   {
+    "family": "Dwight",
+    "given": "Jeremy"
+   },
+   {
+    "family": "Guasti",
+    "given": "Luigina"
+   },
+   {
+    "family": "Hanke",
+    "given": "Thorsten"
+   },
+   {
+    "family": "Jaarsma",
+    "given": "Tiny"
+   }
+  ],
+  "container-title": "European Heart Journal",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title-short": "Eur. Heart J.",
+  "volume": "45",
+  "issue": "36",
+  "page": "3314-3414",
+  "DOI": "10.1093/eurheartj/ehae176"
+ },
+ {
+  "type": "article-journal",
+  "title": "Design science in information systems research",
+  "author": [
+   {
+    "family": "Hevner",
+    "given": "Alan R."
+   },
+   {
+    "family": "March",
+    "given": "Salvatore T."
+   },
+   {
+    "family": "Park",
+    "given": "Jinsoo"
+   },
+   {
+    "family": "Ram",
+    "given": "Sudha"
+   }
+  ],
+  "container-title": "MIS Quarterly",
+  "issued": {
+   "date-parts": [
+    [
+     2004
+    ]
+   ]
+  },
+  "container-title-short": "MIS Quart.",
+  "volume": "28",
+  "issue": "1",
+  "page": "75-105"
+ },
+ {
+  "type": "article-journal",
+  "title": "A design science research methodology for information systems research",
+  "author": [
+   {
+    "family": "Peffers",
+    "given": "Ken"
+   },
+   {
+    "family": "Tuunanen",
+    "given": "Tuure"
+   },
+   {
+    "family": "Rothenberger",
+    "given": "Marcus A."
+   },
+   {
+    "family": "Chatterjee",
+    "given": "Samir"
+   }
+  ],
+  "container-title": "Journal of Management Information Systems",
+  "issued": {
+   "date-parts": [
+    [
+     2007
+    ]
+   ]
+  },
+  "container-title-short": "J. Manage. Inf. Syst.",
+  "volume": "24",
+  "issue": "3",
+  "page": "45-77"
+ },
+ {
+  "type": "article-journal",
+  "title": "ADEPTflex—Supporting dynamic changes of workflows without losing control",
+  "author": [
+   {
+    "family": "Reichert",
+    "given": "Manfred"
+   },
+   {
+    "family": "Dadam",
+    "given": "Peter"
+   }
+  ],
+  "container-title": "Journal of Intelligent Information Systems",
+  "issued": {
+   "date-parts": [
+    [
+     1998
+    ]
+   ]
+  },
+  "container-title-short": "J. Intell. Inf. Syst.",
+  "volume": "10",
+  "issue": "2",
+  "page": "93-129",
+  "DOI": "10.1023/A:1008604709862"
+ },
+ {
+  "type": "article-journal",
+  "title": "Correctness criteria for dynamic changes in workflow systems—A survey",
+  "author": [
+   {
+    "family": "Rinderle",
+    "given": "Stefanie"
+   },
+   {
+    "family": "Reichert",
+    "given": "Manfred"
+   },
+   {
+    "family": "Dadam",
+    "given": "Peter"
+   }
+  ],
+  "container-title": "Data & Knowledge Engineering",
+  "issued": {
+   "date-parts": [
+    [
+     2004
+    ]
+   ]
+  },
+  "container-title-short": "Data Knowl. Eng.",
+  "volume": "50",
+  "issue": "1",
+  "page": "9-34"
+ },
+ {
+  "type": "article-journal",
+  "title": "Change patterns and change support features—Enhancing flexibility in process-aware information systems",
+  "author": [
+   {
+    "family": "Weber",
+    "given": "Barbara"
+   },
+   {
+    "family": "Reichert",
+    "given": "Manfred"
+   },
+   {
+    "family": "Rinderle-Ma",
+    "given": "Stefanie"
+   }
+  ],
+  "container-title": "Data & Knowledge Engineering",
+  "issued": {
+   "date-parts": [
+    [
+     2008
+    ]
+   ]
+  },
+  "container-title-short": "Data Knowl. Eng.",
+  "volume": "66",
+  "issue": "3",
+  "page": "438-466",
+  "DOI": "10.1016/j.datak.2008.05.001"
+ },
+ {
+  "type": "book",
+  "title": "Enabling Flexibility in Process-Aware Information Systems: Challenges, Methods, Technologies",
+  "author": [
+   {
+    "family": "Reichert",
+    "given": "Manfred"
+   },
+   {
+    "family": "Weber",
+    "given": "Barbara"
+   }
+  ],
+  "publisher": "Springer",
+  "publisher-place": "Berlin, Germany",
+  "issued": {
+   "date-parts": [
+    [
+     2012
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-3-642-30409-5"
+ },
+ {
+  "type": "report",
+  "title": "Business Process Model and Notation (BPMN), Version 2.0.2",
+  "author": [
+   {
+    "literal": "Object Management Group"
+   }
+  ],
+  "publisher": "Object Management Group",
+  "publisher-place": "Milford, MA, USA",
+  "issued": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  }
+ },
+ {
+  "type": "report",
+  "title": "Decision Model and Notation (DMN), Version 1.3",
+  "author": [
+   {
+    "literal": "Object Management Group"
+   }
+  ],
+  "publisher": "Object Management Group",
+  "publisher-place": "Milford, MA, USA",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  }
+ },
+ {
+  "type": "paper-conference",
+  "title": "DECLARE: Full support for loosely-structured processes",
+  "author": [
+   {
+    "family": "Pesic",
+    "given": "M."
+   },
+   {
+    "family": "Schonenberg",
+    "given": "H."
+   },
+   {
+    "family": "Aalst",
+    "given": "W. M. P.",
+    "non-dropping-particle": "van der"
+   }
+  ],
+  "container-title": "Proceedings of the 11th IEEE International Enterprise Distributed Object Computing Conference (EDOC)",
+  "page": "287-298",
+  "issued": {
+   "date-parts": [
+    [
+     2007
+    ]
+   ]
+  },
+  "DOI": "10.1109/EDOC.2007.4384001"
+ },
+ {
+  "type": "article-journal",
+  "title": "Flexible guideline-based patient careflow systems",
+  "author": [
+   {
+    "family": "Quaglini",
+    "given": "S."
+   },
+   {
+    "family": "Stefanelli",
+    "given": "M."
+   },
+   {
+    "family": "Lanzola",
+    "given": "G."
+   },
+   {
+    "family": "Caporusso",
+    "given": "V."
+   },
+   {
+    "family": "Panzarasa",
+    "given": "S."
+   }
+  ],
+  "container-title": "Artificial Intelligence in Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2001
+    ]
+   ]
+  },
+  "container-title-short": "Artif. Intell. Med.",
+  "volume": "22",
+  "issue": "1",
+  "page": "65-80"
+ },
+ {
+  "type": "article-journal",
+  "title": "A holistic environment for the design and execution of self-adaptive clinical pathways",
+  "author": [
+   {
+    "family": "Alexandrou",
+    "given": "D."
+   },
+   {
+    "family": "Skitsas",
+    "given": "I."
+   },
+   {
+    "family": "Mentzas",
+    "given": "G."
+   }
+  ],
+  "container-title": "IEEE Transactions on Information Technology in Biomedicine",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "container-title-short": "IEEE Trans. Inf. Technol. Biomed.",
+  "volume": "15",
+  "issue": "1",
+  "page": "108-118",
+  "DOI": "10.1109/TITB.2010.2074205"
+ },
+ {
+  "type": "article-journal",
+  "title": "CONFlexFlow: Integrating flexible clinical pathways into clinical decision support systems using context and rules",
+  "author": [
+   {
+    "family": "Yao",
+    "given": "Wen"
+   },
+   {
+    "family": "Kumar",
+    "given": "Akhil"
+   }
+  ],
+  "container-title": "Decision Support Systems",
+  "issued": {
+   "date-parts": [
+    [
+     2013
+    ]
+   ]
+  },
+  "container-title-short": "Decis. Support Syst.",
+  "volume": "55",
+  "issue": "2",
+  "page": "499-515",
+  "DOI": "10.1016/j.dss.2012.10.008"
+ },
+ {
+  "type": "article-journal",
+  "title": "Validation of a modified early warning score in medical admissions",
+  "author": [
+   {
+    "family": "Subbe",
+    "given": "C. P."
+   },
+   {
+    "family": "Kruger",
+    "given": "M."
+   },
+   {
+    "family": "Rutherford",
+    "given": "P."
+   },
+   {
+    "family": "Gemmel",
+    "given": "L."
+   }
+  ],
+  "container-title": "QJM: An International Journal of Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2001
+    ]
+   ]
+  },
+  "container-title-short": "QJM",
+  "volume": "94",
+  "issue": "10",
+  "page": "521-526",
+  "DOI": "10.1093/qjmed/94.10.521"
+ },
+ {
+  "type": "article-journal",
+  "title": "SMART on FHIR: A standards-based, interoperable apps platform for electronic health records",
+  "author": [
+   {
+    "family": "Mandel",
+    "given": "Joshua C."
+   },
+   {
+    "family": "Kreda",
+    "given": "David A."
+   },
+   {
+    "family": "Mandl",
+    "given": "Kenneth D."
+   },
+   {
+    "family": "Kohane",
+    "given": "Isaac S."
+   },
+   {
+    "family": "Ramoni",
+    "given": "Rachel B."
+   }
+  ],
+  "container-title": "Journal of the American Medical Informatics Association",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "container-title-short": "J. Amer. Med. Inform. Assoc.",
+  "volume": "23",
+  "issue": "5",
+  "page": "899-908",
+  "DOI": "10.1093/jamia/ocv189"
+ },
+ {
+  "type": "webpage",
+  "title": "CDS Hooks Specification, Version 2.0",
+  "author": [
+   {
+    "literal": "HL7 International"
+   }
+  ],
+  "URL": "https://cds-hooks.hl7.org",
+  "accessed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     3
+    ]
+   ]
+  },
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  }
+ },
+ {
+  "type": "report",
+  "title": "Management of Alarm Systems for the Process Industries",
+  "number": "ANSI/ISA-18.2-2016",
+  "author": [
+   {
+    "literal": "International Society of Automation"
+   }
+  ],
+  "publisher": "International Society of Automation",
+  "publisher-place": "Research Triangle Park, NC, USA",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  }
+ },
+ {
+  "type": "chapter",
+  "title": "Semantics and analysis of DMN decision tables",
+  "author": [
+   {
+    "family": "Calvanese",
+    "given": "Diego"
+   },
+   {
+    "family": "Dumas",
+    "given": "Marlon"
+   },
+   {
+    "family": "Laurson",
+    "given": "Ülari"
+   },
+   {
+    "family": "Maggi",
+    "given": "Fabrizio M."
+   },
+   {
+    "family": "Montali",
+    "given": "Marco"
+   },
+   {
+    "family": "Teinemaa",
+    "given": "Irene"
+   }
+  ],
+  "container-title": "Business Process Management",
+  "collection-title": "Lecture Notes in Computer Science",
+  "volume": "9850",
+  "publisher": "Springer",
+  "publisher-place": "Cham, Switzerland",
+  "page": "217-233",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-3-319-45348-4_13"
+ },
+ {
+  "type": "article-journal",
+  "title": "Semantics, analysis and simplification of DMN decision tables",
+  "author": [
+   {
+    "family": "Calvanese",
+    "given": "Diego"
+   },
+   {
+    "family": "Dumas",
+    "given": "Marlon"
+   },
+   {
+    "family": "Laurson",
+    "given": "Ülari"
+   },
+   {
+    "family": "Maggi",
+    "given": "Fabrizio M."
+   },
+   {
+    "family": "Montali",
+    "given": "Marco"
+   },
+   {
+    "family": "Teinemaa",
+    "given": "Irene"
+   }
+  ],
+  "container-title": "Information Systems",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "container-title-short": "Inf. Syst.",
+  "volume": "78",
+  "page": "112-125",
+  "DOI": "10.1016/j.is.2017.11.001"
+ },
+ {
+  "type": "paper-conference",
+  "title": "Kafka: A distributed messaging system for log processing",
+  "author": [
+   {
+    "family": "Kreps",
+    "given": "Jay"
+   },
+   {
+    "family": "Narkhede",
+    "given": "Neha"
+   },
+   {
+    "family": "Rao",
+    "given": "Jun"
+   }
+  ],
+  "container-title": "Proceedings of the NetDB Workshop",
+  "page": "1-7",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  }
+ },
+ {
+  "type": "paper-conference",
+  "title": "QuickCheck: A lightweight tool for random testing of Haskell programs",
+  "author": [
+   {
+    "family": "Claessen",
+    "given": "Koen"
+   },
+   {
+    "family": "Hughes",
+    "given": "John"
+   }
+  ],
+  "container-title": "Proceedings of the 5th ACM SIGPLAN International Conference on Functional Programming (ICFP)",
+  "page": "268-279",
+  "issued": {
+   "date-parts": [
+    [
+     2000
+    ]
+   ]
+  },
+  "DOI": "10.1145/351240.351266"
+ },
+ {
+  "type": "article-journal",
+  "title": "Hypothesis: A new approach to property-based testing",
+  "author": [
+   {
+    "family": "MacIver",
+    "given": "David R."
+   },
+   {
+    "family": "Hatfield-Dodds",
+    "given": "Zac"
+   }
+  ],
+  "container-title": "Journal of Open Source Software",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title-short": "J. Open Source Softw.",
+  "volume": "4",
+  "issue": "43",
+  "page": "1891",
+  "DOI": "10.21105/joss.01891"
+ },
+ {
+  "type": "article-journal",
+  "title": "An analysis and survey of the development of mutation testing",
+  "author": [
+   {
+    "family": "Jia",
+    "given": "Yue"
+   },
+   {
+    "family": "Harman",
+    "given": "Mark"
+   }
+  ],
+  "container-title": "IEEE Transactions on Software Engineering",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "container-title-short": "IEEE Trans. Softw. Eng.",
+  "volume": "37",
+  "issue": "5",
+  "page": "649-678",
+  "DOI": "10.1109/TSE.2010.62"
+ },
+ {
+  "type": "article-journal",
+  "title": "Early prediction of sepsis from clinical data: The PhysioNet/Computing in Cardiology Challenge 2019",
+  "author": [
+   {
+    "family": "Reyna",
+    "given": "Matthew A."
+   },
+   {
+    "family": "Josef",
+    "given": "Christopher S."
+   },
+   {
+    "family": "Jeter",
+    "given": "Russell"
+   },
+   {
+    "family": "Shashikumar",
+    "given": "Supreeth P."
+   },
+   {
+    "family": "Westover",
+    "given": "M. Brandon"
+   },
+   {
+    "family": "Nemati",
+    "given": "Shamim"
+   },
+   {
+    "family": "Clifford",
+    "given": "Gari D."
+   },
+   {
+    "family": "Sharma",
+    "given": "Ashish"
+   }
+  ],
+  "container-title": "Critical Care Medicine",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title-short": "Crit. Care Med.",
+  "volume": "48",
+  "issue": "2",
+  "page": "210-217",
+  "DOI": "10.1097/CCM.0000000000004145"
+ },
+ {
+  "type": "article-journal",
+  "title": "PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals",
+  "author": [
+   {
+    "family": "Goldberger",
+    "given": "Ary L."
+   },
+   {
+    "family": "Amaral",
+    "given": "Luis A. N."
+   },
+   {
+    "family": "Glass",
+    "given": "Leon"
+   },
+   {
+    "family": "Hausdorff",
+    "given": "Jeffrey M."
+   },
+   {
+    "family": "Ivanov",
+    "given": "Plamen Ch."
+   },
+   {
+    "family": "Mark",
+    "given": "Roger G."
+   },
+   {
+    "family": "Mietus",
+    "given": "Joseph E."
+   },
+   {
+    "family": "Moody",
+    "given": "George B."
+   },
+   {
+    "family": "Peng",
+    "given": "Chung-Kang"
+   },
+   {
+    "family": "Stanley",
+    "given": "H. Eugene"
+   }
+  ],
+  "container-title": "Circulation",
+  "issued": {
+   "date-parts": [
+    [
+     2000
+    ]
+   ]
+  },
+  "volume": "101",
+  "issue": "23",
+  "page": "e215-e220",
+  "DOI": "10.1161/01.CIR.101.23.e215"
+ },
+ {
+  "type": "report",
+  "title": "Peraturan Menteri Kesehatan Nomor 24 Tahun 2022 tentang Rekam Medis [Minister of Health Regulation No. 24 of 2022 on Medical Records]",
+  "author": [
+   {
+    "literal": "Kementerian Kesehatan Republik Indonesia"
+   }
+  ],
+  "publisher": "Kementerian Kesehatan Republik Indonesia",
+  "publisher-place": "Jakarta, Indonesia",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  }
+ },
+ {
+  "type": "report",
+  "title": "Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi [Law No. 27 of 2022 on Personal Data Protection]",
+  "author": [
+   {
+    "literal": "Republik Indonesia"
+   }
+  ],
+  "publisher": "Republik Indonesia",
+  "publisher-place": "Jakarta, Indonesia",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  }
+ },
+ {
+  "type": "article-journal",
+  "title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+  "author": [
+   {
+    "family": "Obermeyer",
+    "given": "Ziad"
+   },
+   {
+    "family": "Powers",
+    "given": "Brian"
+   },
+   {
+    "family": "Vogeli",
+    "given": "Christine"
+   },
+   {
+    "family": "Mullainathan",
+    "given": "Sendhil"
+   }
+  ],
+  "container-title": "Science",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "volume": "366",
+  "issue": "6464",
+  "page": "447-453",
+  "DOI": "10.1126/science.aax2342"
+ }
+]

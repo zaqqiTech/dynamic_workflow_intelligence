@@ -1,0 +1,5 @@
+hypothesis>=6.0
+numpy
+pandas
+scikit-learn
+matplotlib

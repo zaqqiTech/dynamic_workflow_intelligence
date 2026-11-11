@@ -1,0 +1,392 @@
+{
+ "params": {
+  "thM": 0.0355,
+  "thC": 0.1,
+  "thK": 0.5147,
+  "tick_h": 1.0,
+  "delta_h": 2.0,
+  "window_before_h": 12.0,
+  "window_after_h": 3.0
+ },
+ "detector": {
+  "patients": {
+   "A_train": 14000,
+   "A_calibration": 6000,
+   "B_test": 20336
+  },
+  "hours": {
+   "A_train": 533454,
+   "A_calibration": 228541,
+   "B_test": 790215
+  },
+  "auroc_hourly": {
+   "A_calibration": 0.8373771622167518,
+   "B_test": 0.7499691963342252
+  },
+  "auprc_hourly": {
+   "A_calibration": 0.10405895263060139,
+   "B_test": 0.07761161700294605
+  },
+  "prevalence_hourly_B": 0.02168523756192935,
+  "thresholds": {
+   "thM_P93": 0.0354758439449594,
+   "thC_P98": 0.10004998257570394,
+   "thK_P99_9": 0.5146749851384846
+  },
+  "n_features": 84,
+  "train_hospital": "B",
+  "test_hospital": "A"
+ },
+ "strategies": {
+  "threshold-alert": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.3505590250754542,
+   "evaluable_septic": 1587,
+   "detected": 801,
+   "sensitivity": 0.504725897920605,
+   "detected_pre_onset": 703,
+   "detected_ge6h": 579,
+   "patients_flagged": 3991,
+   "ppv_patient": 0.24004009020295666,
+   "lead_median_iqr": [
+    10.0,
+    5.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 0.6002355341327484,
+   "commands_per_pd_ci95": [
+    1.253321185137634,
+    1.4368359218293056
+   ],
+   "sensitivity_ci95": [
+    0.48103485756640374,
+    0.5284302692947156
+   ]
+  },
+  "level-triggered": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 6.703745183272907,
+   "evaluable_septic": 1587,
+   "detected": 1063,
+   "sensitivity": 0.6698172652804033,
+   "detected_pre_onset": 996,
+   "detected_ge6h": 875,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 5.460959560803268,
+   "reversals_per_pd": 0.02235341014787115,
+   "nonseptic_elev_h_per_pd": 2.9265772687672107,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "commands_per_pd_ci95": [
+    6.562310026854766,
+    6.85462711675004
+   ],
+   "sensitivity_ci95": [
+    0.6438797211457697,
+    0.6934125047837735
+   ]
+  },
+  "edge-no-hysteresis": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.216742279000019,
+   "evaluable_septic": 1587,
+   "detected": 1063,
+   "sensitivity": 0.6698172652804033,
+   "detected_pre_onset": 996,
+   "detected_ge6h": 875,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.1232789153171612,
+   "reversals_per_pd": 0.02235341014787115,
+   "nonseptic_elev_h_per_pd": 2.9265772687672107,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "commands_per_pd_ci95": [
+    1.1961631653670741,
+    1.2378217363936603
+   ],
+   "sensitivity_ci95": [
+    0.6473837237977804,
+    0.6922576655756429
+   ]
+  },
+  "DWI": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.212702872003189,
+   "evaluable_septic": 1587,
+   "detected": 1063,
+   "sensitivity": 0.6698172652804033,
+   "detected_pre_onset": 996,
+   "detected_ge6h": 875,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.120722187928219,
+   "reversals_per_pd": 0.011024847668039711,
+   "nonseptic_elev_h_per_pd": 2.9317957945336817,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "max_transitions_over_bound": 0.21052631578947367,
+   "max_transitions": 33,
+   "bound_violations": 0,
+   "commands_per_pd_ci95": [
+    1.1922011574455011,
+    1.233386930586663
+   ],
+   "sensitivity_ci95": [
+    0.6484660408156828,
+    0.6919088538445011
+   ]
+  }
+ },
+ "sweep": {
+  "0.0": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.216742279000019,
+   "evaluable_septic": 1587,
+   "detected": 1063,
+   "sensitivity": 0.6698172652804033,
+   "detected_pre_onset": 996,
+   "detected_ge6h": 875,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.1232789153171612,
+   "reversals_per_pd": 0.02235341014787115,
+   "nonseptic_elev_h_per_pd": 2.9265772687672107,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687
+  },
+  "1.0": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.216742279000019,
+   "evaluable_septic": 1587,
+   "detected": 1063,
+   "sensitivity": 0.6698172652804033,
+   "detected_pre_onset": 996,
+   "detected_ge6h": 875,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.1232789153171612,
+   "reversals_per_pd": 0.02235341014787115,
+   "nonseptic_elev_h_per_pd": 2.9265772687672107,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "max_transitions_over_bound": 0.11864406779661017,
+   "max_transitions": 33,
+   "bound_violations": 0
+  },
+  "2.0": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.212702872003189,
+   "evaluable_septic": 1587,
+   "detected": 1063,
+   "sensitivity": 0.6698172652804033,
+   "detected_pre_onset": 996,
+   "detected_ge6h": 875,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.120722187928219,
+   "reversals_per_pd": 0.011024847668039711,
+   "nonseptic_elev_h_per_pd": 2.9317957945336817,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "max_transitions_over_bound": 0.21052631578947367,
+   "max_transitions": 33,
+   "bound_violations": 0
+  },
+  "4.0": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.2036217991306164,
+   "evaluable_septic": 1587,
+   "detected": 1067,
+   "sensitivity": 0.6723377441713926,
+   "detected_pre_onset": 1000,
+   "detected_ge6h": 879,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.1144879759387436,
+   "reversals_per_pd": 0.009293673240826864,
+   "nonseptic_elev_h_per_pd": 2.9552966723142324,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "max_transitions_over_bound": 0.36363636363636365,
+   "max_transitions": 33,
+   "bound_violations": 0
+  },
+  "6.0": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 1.1955429851369563,
+   "evaluable_septic": 1587,
+   "detected": 1067,
+   "sensitivity": 0.6723377441713926,
+   "detected_pre_onset": 1000,
+   "detected_ge6h": 879,
+   "patients_flagged": 7654,
+   "ppv_patient": 0.16396655343611183,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 1.1082887876121303,
+   "reversals_per_pd": 0.00892921546667679,
+   "nonseptic_elev_h_per_pd": 3.0583362884548873,
+   "nonseptic_ever_elevated": 0.34503396958912974,
+   "ever_K_frac": 0.12647521636506687,
+   "max_transitions_over_bound": 0.36363636363636365,
+   "max_transitions": 33,
+   "bound_violations": 0
+  }
+ },
+ "rate_matched_params": {
+  "thM": 0.0074,
+  "thC": 0.0312,
+  "thK": 0.2877
+ },
+ "rate_matched": {
+  "threshold-alert": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 4.645469903760369,
+   "evaluable_septic": 1587,
+   "detected": 1220,
+   "sensitivity": 0.7687460617517329,
+   "detected_pre_onset": 1127,
+   "detected_ge6h": 1028,
+   "patients_flagged": 12265,
+   "ppv_patient": 0.12115776600081533,
+   "lead_median_iqr": [
+    12.0,
+    8.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 3.3986261968242295
+  },
+  "level-triggered": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 17.75978436248363,
+   "evaluable_septic": 1587,
+   "detected": 1517,
+   "sensitivity": 0.9558916194076874,
+   "detected_pre_onset": 1476,
+   "detected_ge6h": 1405,
+   "patients_flagged": 17453,
+   "ppv_patient": 0.09883687618174526,
+   "lead_median_iqr": [
+    12.0,
+    12.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 17.08825525245494,
+   "reversals_per_pd": 0.04069778478009149,
+   "nonseptic_elev_h_per_pd": 12.857396778698607,
+   "nonseptic_ever_elevated": 0.8480534886228837,
+   "ever_K_frac": 0.41763375295043276
+  },
+  "edge-no-hysteresis": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 2.531948899982916,
+   "evaluable_septic": 1587,
+   "detected": 1517,
+   "sensitivity": 0.9558916194076874,
+   "detected_pre_onset": 1476,
+   "detected_ge6h": 1405,
+   "patients_flagged": 17453,
+   "ppv_patient": 0.09883687618174526,
+   "lead_median_iqr": [
+    12.0,
+    12.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 2.6165828287736903,
+   "reversals_per_pd": 0.04069778478009149,
+   "nonseptic_elev_h_per_pd": 12.857396778698607,
+   "nonseptic_ever_elevated": 0.8480534886228837,
+   "ever_K_frac": 0.41763375295043276
+  },
+  "DWI": {
+   "patients": 20336,
+   "patient_days": 32925.625,
+   "commands_per_pd": 2.5251153167176024,
+   "evaluable_septic": 1587,
+   "detected": 1517,
+   "sensitivity": 0.9558916194076874,
+   "detected_pre_onset": 1476,
+   "detected_ge6h": 1405,
+   "patients_flagged": 17453,
+   "ppv_patient": 0.09883687618174526,
+   "lead_median_iqr": [
+    12.0,
+    12.0,
+    12.0
+   ],
+   "nonseptic_commands_per_pd": 2.609367954224073,
+   "reversals_per_pd": 0.02256601051612536,
+   "nonseptic_elev_h_per_pd": 12.867168380637168,
+   "nonseptic_ever_elevated": 0.8480534886228837,
+   "ever_K_frac": 0.41763375295043276,
+   "max_transitions_over_bound": 0.2222222222222222,
+   "max_transitions": 27,
+   "bound_violations": 0
+  }
+ },
+ "ordering": {
+  "patients": 500,
+  "replays": 5000,
+  "identical": {
+   "A1": 5000,
+   "fold": 3992,
+   "drop": 3672
+  },
+  "patients_diverged": {
+   "fold": 215,
+   "drop": 218
+  }
+ }
+}

@@ -1,0 +1,140 @@
+[
+ {
+  "id": "M1",
+  "mutant": "Class-exact instead of cumulative counting",
+  "killed": true,
+  "detected_by": [
+   "TC-8 Monotonicity"
+  ]
+ },
+ {
+  "id": "M2",
+  "mutant": "Closed window [t-D, t] instead of (t-D, t]",
+  "killed": true,
+  "detected_by": [
+   "TC-3 Window edges",
+   "TC-5 Dwell boundary"
+  ]
+ },
+ {
+  "id": "M3",
+  "mutant": "Dwell gate > instead of >=",
+  "killed": true,
+  "detected_by": [
+   "TC-5 Dwell boundary"
+  ]
+ },
+ {
+  "id": "M4",
+  "mutant": "Symmetric hysteresis (escalation also gated)",
+  "killed": true,
+  "detected_by": [
+   "TC-16/17",
+   "TC-4 Phi enumeration",
+   "TC-5 Dwell boundary"
+  ]
+ },
+ {
+  "id": "M5",
+  "mutant": "Level-triggered command emission",
+  "killed": true,
+  "detected_by": [
+   "TC-16/17"
+  ]
+ },
+ {
+  "id": "M6",
+  "mutant": "Terminal rule G7 omitted",
+  "killed": true,
+  "detected_by": [
+   "TC-1 Guard partition",
+   "run_props:crash",
+   "tc2:crash",
+   "tc5:crash",
+   "tc9_10_11:crash"
+  ]
+ },
+ {
+  "id": "M7",
+  "mutant": "Staircase negation dropped in rule G3",
+  "killed": true,
+  "detected_by": [
+   "TC-1 Guard partition"
+  ]
+ },
+ {
+  "id": "M8",
+  "mutant": "Content-key de-duplication disabled",
+  "killed": true,
+  "detected_by": [
+   "TC-9 Idempotency"
+  ]
+ },
+ {
+  "id": "M9",
+  "mutant": "Per-patient reorder buffer disabled",
+  "killed": true,
+  "detected_by": [
+   "TC-10 Replay determinism",
+   "TC-11 Late arrival",
+   "TC-9 Idempotency"
+  ]
+ },
+ {
+  "id": "M10",
+  "mutant": "Event-time clock by float accumulation",
+  "killed": true,
+  "detected_by": [
+   "TC-10 Replay determinism",
+   "TC-9 Idempotency"
+  ]
+ },
+ {
+  "id": "M11",
+  "mutant": "Degraded mode admits de-escalation",
+  "killed": true,
+  "detected_by": [
+   "TC-13 Degradation"
+  ]
+ },
+ {
+  "id": "M12",
+  "mutant": "Exit from K made autonomous (Tier 1)",
+  "killed": true,
+  "detected_by": [
+   "TC-6 Adaptation base"
+  ]
+ },
+ {
+  "id": "M13",
+  "mutant": "Coherence condition C2 not asserted",
+  "killed": true,
+  "detected_by": [
+   "TC-15 Coherence assertions"
+  ]
+ },
+ {
+  "id": "M14",
+  "mutant": "Override lock ignored",
+  "killed": true,
+  "detected_by": [
+   "TC-14 Override precedence"
+  ]
+ },
+ {
+  "id": "M15",
+  "mutant": "Recovery adopts replay state only",
+  "killed": true,
+  "detected_by": [
+   "TC-13 Degradation"
+  ]
+ },
+ {
+  "id": "M16",
+  "mutant": "Key collision resolved by arrival order (original Def. 1)",
+  "killed": true,
+  "detected_by": [
+   "TC-9 Idempotency"
+  ]
+ }
+]

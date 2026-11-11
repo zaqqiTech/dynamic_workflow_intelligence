@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DWI: Dynamic Workflow Intelligence — reference implementation, conformance suite, and real-data evaluation"
+authors:
+  - family-names: "Yamani A"
+    given-names: "Zaqqi"
+    affiliation: "Universitas Sriwijaya"
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/USERNAME/dwi-ecg-workflow"
+preferred-citation:
+  type: article
+  title: "Dynamic Workflow Intelligence: A Verifiable State-Machine Specification for Coupling Continuous Clinical Risk Scores to Workflow Adaptation"
+  authors:
+    - family-names: "Yamani A"
+      given-names: "Zaqqi"
+  year: 2026
+  journal: "(under review)"

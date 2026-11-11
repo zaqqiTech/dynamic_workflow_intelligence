@@ -1,0 +1,584 @@
+TY  - JOUR
+AU  - Ancker, J. S.
+AU  - Edwards, A.
+AU  - Nosal, S.
+AU  - Hauser, D.
+AU  - Mauer, E.
+AU  - Kaushal, R.
+TI  - Effects of workload, work complexity, and repeated alerts on alert fatigue in a clinical decision support system
+T2  - BMC Medical Informatics and Decision Making
+J2  - BMC Med. Informat. Decis. Making
+PY  - 2017
+VL  - 17
+DO  - 10.1186/s12911-017-0430-8
+SP  - 36
+N1  - Cited as [1] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Wong, Andrew
+AU  - Otles, Erkin
+AU  - Donnelly, John P.
+AU  - Krumm, Andrew
+AU  - McCullough, Jeffrey
+AU  - DeTroyer-Cooley, Olivia
+AU  - Pestrue, Justin
+AU  - Phillips, Marie
+AU  - Konye, Judy
+AU  - Penoza, Carleen
+AU  - Ghous, Muhammad
+AU  - Singh, Karandeep
+TI  - External validation of a widely implemented proprietary sepsis prediction model in hospitalized patients
+T2  - JAMA Internal Medicine
+J2  - JAMA Intern. Med.
+PY  - 2021
+VL  - 181
+IS  - 8
+DO  - 10.1001/jamainternmed.2021.2626
+SP  - 1065
+EP  - 1070
+N1  - Cited as [2] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Newton, N.
+AU  - Bamgboje-Ayodele, A.
+AU  - Forsyth, R.
+AU  - Tariq, A.
+AU  - Baysari, M. T.
+TI  - A systematic review of clinicians' acceptance and use of clinical decision support systems over time
+T2  - npj Digital Medicine
+J2  - npj Digit. Med.
+PY  - 2025
+VL  - 8
+DO  - 10.1038/s41746-025-01662-7
+SP  - 309
+N1  - Cited as [3] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Verma, Amol A.
+AU  - Stukel, Therese A.
+AU  - Colacci, Michael
+AU  - Bell, Shirley
+AU  - Ailon, Jonathan
+AU  - Friedrich, Jan O.
+AU  - Murray, Joshua
+AU  - Kuzulugil, Sebnem
+AU  - Yang, Zhen
+AU  - Lee, Yuna
+AU  - Pou-Prom, Chloe
+AU  - Mamdani, Muhammad
+TI  - Clinical evaluation of a machine learning–based early warning system for patient deterioration
+T2  - Canadian Medical Association Journal
+J2  - Can. Med. Assoc. J.
+PY  - 2024
+VL  - 196
+IS  - 30
+DO  - 10.1503/cmaj.240132
+SP  - E1027
+EP  - E1037
+N1  - Cited as [4] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Rossetti, Sarah C.
+AU  - Dykes, Patricia C.
+AU  - Knaplund, Chris
+AU  - Cho, Sandy
+AU  - Withall, Jennifer
+AU  - Lowenthal, Graham
+AU  - Albers, David
+AU  - Lee, Rachel Y.
+AU  - Jia, Haomiao
+AU  - Bakken, Suzanne
+AU  - Kang, Min-Jeoung
+AU  - Chang, Frank Y.
+AU  - Zhou, Li
+AU  - Bates, David W.
+AU  - Daramola, Temiloluwa
+AU  - Liu, Fang
+AU  - Schwartz-Dillard, Jessica
+AU  - Tran, Mai
+AU  - Bokhari, Syed Mohtashim Abbas
+AU  - Thate, Jennifer
+AU  - Cato, Kenrick D.
+TI  - Real-time surveillance system for patient deterioration: A pragmatic cluster-randomized controlled trial
+T2  - Nature Medicine
+J2  - Nature Med.
+PY  - 2025
+VL  - 31
+IS  - 6
+DO  - 10.1038/s41591-025-03609-7
+SP  - 1895
+EP  - 1902
+N1  - Cited as [5] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Adams, Roy
+AU  - Henry, Katharine E.
+AU  - Sridharan, Anirudh
+AU  - Soleimani, Hossein
+AU  - Zhan, Andong
+AU  - Rawat, Nishi
+AU  - Johnson, Lauren
+AU  - Hager, David N.
+AU  - Cosgrove, Sara E.
+AU  - Markowski, Andrew
+AU  - Klein, Eili Y.
+AU  - Chen, Edward S.
+AU  - Saheed, Mustapha O.
+AU  - Henley, Maureen
+AU  - Miranda, Sheila
+AU  - Houston, Katrina
+AU  - Linton, Robert C.
+AU  - Ahluwalia, Anushree R.
+AU  - Wu, Albert W.
+AU  - Saria, Suchi
+TI  - Prospective, multi-site study of patient outcomes after implementation of the TREWS machine learning-based early warning system for sepsis
+T2  - Nature Medicine
+J2  - Nature Med.
+PY  - 2022
+VL  - 28
+IS  - 7
+DO  - 10.1038/s41591-022-01894-0
+SP  - 1455
+EP  - 1460
+N1  - Cited as [6] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Joglar, José A.
+AU  - Chung, Mina K.
+AU  - Armbruster, Anastasia L.
+AU  - Benjamin, Emelia J.
+AU  - Chyou, Janice Y.
+AU  - Cronin, Edmond M.
+AU  - Deswal, Anita
+AU  - Eckhardt, Lee L.
+AU  - Goldberger, Zachary D.
+AU  - Gopinathannair, Rakesh
+TI  - 2023 ACC/AHA/ACCP/HRS guideline for the diagnosis and management of atrial fibrillation: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines
+T2  - Circulation
+PY  - 2024
+VL  - 149
+IS  - 1
+DO  - 10.1161/CIR.0000000000001193
+SP  - e1
+EP  - e156
+N1  - Cited as [7] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Van Gelder, Isabelle C.
+AU  - Rienstra, Michiel
+AU  - Bunting, Karina V.
+AU  - Casado-Arroyo, Ruben
+AU  - Caso, Valeria
+AU  - Crijns, Harry J. G. M.
+AU  - De Potter, Tom J. R.
+AU  - Dwight, Jeremy
+AU  - Guasti, Luigina
+AU  - Hanke, Thorsten
+AU  - Jaarsma, Tiny
+TI  - 2024 ESC guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)
+T2  - European Heart Journal
+J2  - Eur. Heart J.
+PY  - 2024
+VL  - 45
+IS  - 36
+DO  - 10.1093/eurheartj/ehae176
+SP  - 3314
+EP  - 3414
+N1  - Cited as [8] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Hevner, Alan R.
+AU  - March, Salvatore T.
+AU  - Park, Jinsoo
+AU  - Ram, Sudha
+TI  - Design science in information systems research
+T2  - MIS Quarterly
+J2  - MIS Quart.
+PY  - 2004
+VL  - 28
+IS  - 1
+SP  - 75
+EP  - 105
+N1  - Cited as [9] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Peffers, Ken
+AU  - Tuunanen, Tuure
+AU  - Rothenberger, Marcus A.
+AU  - Chatterjee, Samir
+TI  - A design science research methodology for information systems research
+T2  - Journal of Management Information Systems
+J2  - J. Manage. Inf. Syst.
+PY  - 2007
+VL  - 24
+IS  - 3
+SP  - 45
+EP  - 77
+N1  - Cited as [10] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Reichert, Manfred
+AU  - Dadam, Peter
+TI  - ADEPTflex—Supporting dynamic changes of workflows without losing control
+T2  - Journal of Intelligent Information Systems
+J2  - J. Intell. Inf. Syst.
+PY  - 1998
+VL  - 10
+IS  - 2
+DO  - 10.1023/A:1008604709862
+SP  - 93
+EP  - 129
+N1  - Cited as [11] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Rinderle, Stefanie
+AU  - Reichert, Manfred
+AU  - Dadam, Peter
+TI  - Correctness criteria for dynamic changes in workflow systems—A survey
+T2  - Data & Knowledge Engineering
+J2  - Data Knowl. Eng.
+PY  - 2004
+VL  - 50
+IS  - 1
+SP  - 9
+EP  - 34
+N1  - Cited as [12] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Weber, Barbara
+AU  - Reichert, Manfred
+AU  - Rinderle-Ma, Stefanie
+TI  - Change patterns and change support features—Enhancing flexibility in process-aware information systems
+T2  - Data & Knowledge Engineering
+J2  - Data Knowl. Eng.
+PY  - 2008
+VL  - 66
+IS  - 3
+DO  - 10.1016/j.datak.2008.05.001
+SP  - 438
+EP  - 466
+N1  - Cited as [13] in the DWI manuscript
+ER  - 
+
+TY  - BOOK
+AU  - Reichert, Manfred
+AU  - Weber, Barbara
+TI  - Enabling Flexibility in Process-Aware Information Systems: Challenges, Methods, Technologies
+PY  - 2012
+PB  - Springer
+CY  - Berlin, Germany
+DO  - 10.1007/978-3-642-30409-5
+N1  - Cited as [14] in the DWI manuscript
+ER  - 
+
+TY  - RPRT
+AU  - Object Management Group
+TI  - Business Process Model and Notation (BPMN), Version 2.0.2
+PY  - 2014
+PB  - Object Management Group
+CY  - Milford, MA, USA
+N1  - Cited as [15] in the DWI manuscript
+ER  - 
+
+TY  - RPRT
+AU  - Object Management Group
+TI  - Decision Model and Notation (DMN), Version 1.3
+PY  - 2019
+PB  - Object Management Group
+CY  - Milford, MA, USA
+N1  - Cited as [16] in the DWI manuscript
+ER  - 
+
+TY  - CONF
+AU  - Pesic, M.
+AU  - Schonenberg, H.
+AU  - van der Aalst, W. M. P.
+TI  - DECLARE: Full support for loosely-structured processes
+T2  - Proceedings of the 11th IEEE International Enterprise Distributed Object Computing Conference (EDOC)
+PY  - 2007
+DO  - 10.1109/EDOC.2007.4384001
+SP  - 287
+EP  - 298
+N1  - Cited as [17] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Quaglini, S.
+AU  - Stefanelli, M.
+AU  - Lanzola, G.
+AU  - Caporusso, V.
+AU  - Panzarasa, S.
+TI  - Flexible guideline-based patient careflow systems
+T2  - Artificial Intelligence in Medicine
+J2  - Artif. Intell. Med.
+PY  - 2001
+VL  - 22
+IS  - 1
+SP  - 65
+EP  - 80
+N1  - Cited as [18] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Alexandrou, D.
+AU  - Skitsas, I.
+AU  - Mentzas, G.
+TI  - A holistic environment for the design and execution of self-adaptive clinical pathways
+T2  - IEEE Transactions on Information Technology in Biomedicine
+J2  - IEEE Trans. Inf. Technol. Biomed.
+PY  - 2011
+VL  - 15
+IS  - 1
+DO  - 10.1109/TITB.2010.2074205
+SP  - 108
+EP  - 118
+N1  - Cited as [19] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Yao, Wen
+AU  - Kumar, Akhil
+TI  - CONFlexFlow: Integrating flexible clinical pathways into clinical decision support systems using context and rules
+T2  - Decision Support Systems
+J2  - Decis. Support Syst.
+PY  - 2013
+VL  - 55
+IS  - 2
+DO  - 10.1016/j.dss.2012.10.008
+SP  - 499
+EP  - 515
+N1  - Cited as [20] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Subbe, C. P.
+AU  - Kruger, M.
+AU  - Rutherford, P.
+AU  - Gemmel, L.
+TI  - Validation of a modified early warning score in medical admissions
+T2  - QJM: An International Journal of Medicine
+J2  - QJM
+PY  - 2001
+VL  - 94
+IS  - 10
+DO  - 10.1093/qjmed/94.10.521
+SP  - 521
+EP  - 526
+N1  - Cited as [21] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Mandel, Joshua C.
+AU  - Kreda, David A.
+AU  - Mandl, Kenneth D.
+AU  - Kohane, Isaac S.
+AU  - Ramoni, Rachel B.
+TI  - SMART on FHIR: A standards-based, interoperable apps platform for electronic health records
+T2  - Journal of the American Medical Informatics Association
+J2  - J. Amer. Med. Inform. Assoc.
+PY  - 2016
+VL  - 23
+IS  - 5
+DO  - 10.1093/jamia/ocv189
+SP  - 899
+EP  - 908
+N1  - Cited as [22] in the DWI manuscript
+ER  - 
+
+TY  - ELEC
+AU  - HL7 International
+TI  - CDS Hooks Specification, Version 2.0
+PY  - 2022
+UR  - https://cds-hooks.hl7.org
+N1  - Cited as [23] in the DWI manuscript
+ER  - 
+
+TY  - RPRT
+AU  - International Society of Automation
+TI  - Management of Alarm Systems for the Process Industries
+PY  - 2016
+PB  - International Society of Automation
+CY  - Research Triangle Park, NC, USA
+M1  - ANSI/ISA-18.2-2016
+N1  - Cited as [24] in the DWI manuscript
+ER  - 
+
+TY  - CHAP
+AU  - Calvanese, Diego
+AU  - Dumas, Marlon
+AU  - Laurson, Ülari
+AU  - Maggi, Fabrizio M.
+AU  - Montali, Marco
+AU  - Teinemaa, Irene
+TI  - Semantics and analysis of DMN decision tables
+T2  - Business Process Management
+T3  - Lecture Notes in Computer Science
+PY  - 2016
+VL  - 9850
+PB  - Springer
+CY  - Cham, Switzerland
+DO  - 10.1007/978-3-319-45348-4_13
+SP  - 217
+EP  - 233
+N1  - Cited as [25] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Calvanese, Diego
+AU  - Dumas, Marlon
+AU  - Laurson, Ülari
+AU  - Maggi, Fabrizio M.
+AU  - Montali, Marco
+AU  - Teinemaa, Irene
+TI  - Semantics, analysis and simplification of DMN decision tables
+T2  - Information Systems
+J2  - Inf. Syst.
+PY  - 2018
+VL  - 78
+DO  - 10.1016/j.is.2017.11.001
+SP  - 112
+EP  - 125
+N1  - Cited as [26] in the DWI manuscript
+ER  - 
+
+TY  - CONF
+AU  - Kreps, Jay
+AU  - Narkhede, Neha
+AU  - Rao, Jun
+TI  - Kafka: A distributed messaging system for log processing
+T2  - Proceedings of the NetDB Workshop
+PY  - 2011
+SP  - 1
+EP  - 7
+N1  - Cited as [27] in the DWI manuscript
+ER  - 
+
+TY  - CONF
+AU  - Claessen, Koen
+AU  - Hughes, John
+TI  - QuickCheck: A lightweight tool for random testing of Haskell programs
+T2  - Proceedings of the 5th ACM SIGPLAN International Conference on Functional Programming (ICFP)
+PY  - 2000
+DO  - 10.1145/351240.351266
+SP  - 268
+EP  - 279
+N1  - Cited as [28] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - MacIver, David R.
+AU  - Hatfield-Dodds, Zac
+TI  - Hypothesis: A new approach to property-based testing
+T2  - Journal of Open Source Software
+J2  - J. Open Source Softw.
+PY  - 2019
+VL  - 4
+IS  - 43
+DO  - 10.21105/joss.01891
+SP  - 1891
+N1  - Cited as [29] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Jia, Yue
+AU  - Harman, Mark
+TI  - An analysis and survey of the development of mutation testing
+T2  - IEEE Transactions on Software Engineering
+J2  - IEEE Trans. Softw. Eng.
+PY  - 2011
+VL  - 37
+IS  - 5
+DO  - 10.1109/TSE.2010.62
+SP  - 649
+EP  - 678
+N1  - Cited as [30] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Reyna, Matthew A.
+AU  - Josef, Christopher S.
+AU  - Jeter, Russell
+AU  - Shashikumar, Supreeth P.
+AU  - Westover, M. Brandon
+AU  - Nemati, Shamim
+AU  - Clifford, Gari D.
+AU  - Sharma, Ashish
+TI  - Early prediction of sepsis from clinical data: The PhysioNet/Computing in Cardiology Challenge 2019
+T2  - Critical Care Medicine
+J2  - Crit. Care Med.
+PY  - 2020
+VL  - 48
+IS  - 2
+DO  - 10.1097/CCM.0000000000004145
+SP  - 210
+EP  - 217
+N1  - Cited as [31] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Goldberger, Ary L.
+AU  - Amaral, Luis A. N.
+AU  - Glass, Leon
+AU  - Hausdorff, Jeffrey M.
+AU  - Ivanov, Plamen Ch.
+AU  - Mark, Roger G.
+AU  - Mietus, Joseph E.
+AU  - Moody, George B.
+AU  - Peng, Chung-Kang
+AU  - Stanley, H. Eugene
+TI  - PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals
+T2  - Circulation
+PY  - 2000
+VL  - 101
+IS  - 23
+DO  - 10.1161/01.CIR.101.23.e215
+SP  - e215
+EP  - e220
+N1  - Cited as [32] in the DWI manuscript
+ER  - 
+
+TY  - RPRT
+AU  - Kementerian Kesehatan Republik Indonesia
+TI  - Peraturan Menteri Kesehatan Nomor 24 Tahun 2022 tentang Rekam Medis [Minister of Health Regulation No. 24 of 2022 on Medical Records]
+PY  - 2022
+PB  - Kementerian Kesehatan Republik Indonesia
+CY  - Jakarta, Indonesia
+N1  - Cited as [33] in the DWI manuscript
+ER  - 
+
+TY  - RPRT
+AU  - Republik Indonesia
+TI  - Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi [Law No. 27 of 2022 on Personal Data Protection]
+PY  - 2022
+PB  - Republik Indonesia
+CY  - Jakarta, Indonesia
+N1  - Cited as [34] in the DWI manuscript
+ER  - 
+
+TY  - JOUR
+AU  - Obermeyer, Ziad
+AU  - Powers, Brian
+AU  - Vogeli, Christine
+AU  - Mullainathan, Sendhil
+TI  - Dissecting racial bias in an algorithm used to manage the health of populations
+T2  - Science
+PY  - 2019
+VL  - 366
+IS  - 6464
+DO  - 10.1126/science.aax2342
+SP  - 447
+EP  - 453
+N1  - Cited as [35] in the DWI manuscript
+ER  - 
